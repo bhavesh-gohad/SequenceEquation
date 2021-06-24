@@ -6,7 +6,7 @@ int main()
 	int n;
 	cin>>n;
 	
-	int index1=0,index2=0,x=0;
+	int index1=0,x=0;
 	
 	int a[n];
 	
